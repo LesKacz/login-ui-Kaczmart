@@ -4,7 +4,7 @@ body {
 } 
 /* outside in */
 .container{
-    border:10px solid rgba(250, 125, 221, 0.809);
+    border:10px solid rgba(251, 12, 195, 0.809);
     border-radius:25px;
     display: flex;
     height: 299px;
@@ -16,7 +16,7 @@ body {
     width:100vw;
     border-radius:25px;
     box-sizing: border-box;
-    background-color:rgb(151, 229, 245)
+    background-color:rgb(129, 232, 253)
  /* other property settings can be organized alphabetically */
 
 }
